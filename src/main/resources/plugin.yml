@@ -1,0 +1,8 @@
+name: TruePing
+version: '1.0-SNAPSHOT'
+main: com.boggy.truePing.TruePing
+api-version: '1.20'
+
+depend:
+  - packetevents
+  - PlaceholderAPI
